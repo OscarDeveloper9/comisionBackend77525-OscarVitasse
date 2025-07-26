@@ -1,0 +1,28 @@
+[
+  {
+    "id": "95fe5a26-2553-4d09-ab3b-fcad018c4117",
+    "status": true,
+    "title": "Producto nuevo",
+    "description": "Nuevo producto",
+    "code": "CODE3",
+    "price": 300,
+    "stock": 15,
+    "category": "Electrónica",
+    "thumbnails": [
+      "https://example.com/img3.jpg"
+    ]
+  },
+  {
+    "id": "7a1a1a5f-2f5c-488d-a81f-4aa3dbfc9b35",
+    "status": true,
+    "title": "Producto nuevo",
+    "description": "Nuevo producto",
+    "code": "CODE3",
+    "price": 300,
+    "stock": 15,
+    "category": "Electrónic",
+    "thumbnails": [
+      "https://example.com/img3.jpg"
+    ]
+  }
+]
