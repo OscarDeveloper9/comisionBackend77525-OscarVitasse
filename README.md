@@ -5,7 +5,7 @@ Este proyecto consiste en una API RESTful desarrollada con **Node.js** y **Expre
 ## 🚀 Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/backend-api-ecommerce.git
+git clone https://github.com/OscarDeveloper9/comisionBackend77525-OscarVitasse.git
 cd backend-api-ecommerce
 npm install
 npm start
